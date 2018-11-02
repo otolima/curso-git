@@ -11,8 +11,10 @@ namespace projeto_teste
         static void Main(string[] args)
         {
             Console.WriteLine("Olá!");
+            Console.WriteLine("Feito o commit");
 
             Console.ReadLine();
+
 
         }
     }
