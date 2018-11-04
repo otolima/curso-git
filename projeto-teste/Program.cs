@@ -14,6 +14,11 @@ namespace projeto_teste
             Console.WriteLine("Feito o commit");
             Console.WriteLine("Mais um");
 
+            for (int i=0; i <= 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
 
             Console.ReadLine();
 
